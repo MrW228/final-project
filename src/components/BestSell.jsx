@@ -15,27 +15,27 @@ function BestSell() {
             <NavLink className="img1" to="/ShopPage"><img src={pear} alt="" /></NavLink> 
                 <h3>Ipsum dolor</h3>
                 <p>Ut enim ad minim veniam, quis nostrud exerp ex ea commodo consequat. </p>
-                <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+                <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
             </div>
             <div className="card">
                 <NavLink className="img1" to="/ShopPage"><img src={berg} alt="" /></NavLink> 
                 <h3>Consectetur adipiscing</h3>
                 <p>Ut enim ad minim veniam, quis nostrud exerp ex ea commodo consequat. </p>
-                <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+                <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
 
             </div> 
             <div className="card">
             <NavLink className="img1" to="/ShopPage"><img src={rose} alt="" /></NavLink> 
                 <h3>Consequat</h3>
                 <p>Ut enim ad minim veniam, quis nostrud exerp ex ea commodo consequat. </p>
-                <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+                <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
 
             </div>
             <div className="card">
             <NavLink className="img1" to="/ShopPage"><img src={img6} alt="" /></NavLink> 
                 <h3>Commodo</h3>
                 <p>Ut enim ad minim veniam, quis nostrud exerp ex ea commodo consequat. </p>
-                <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+                <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
 
             </div>
         </div>

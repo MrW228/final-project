@@ -13,7 +13,7 @@ function Gift() {
                 <h3>SENDING A GIFT?</h3>
                 <textarea className='input2' name="" id="" cols="30" rows="10"></textarea>
                 <button className='btn5'>save message</button>
-                <a href="">Cancel</a>
+                <a href="#!">Cancel</a>
             </div>
             <div className="right1">
                 <h1>Subtotal</h1>
@@ -30,7 +30,7 @@ function Gift() {
                         <span className='slider1 round1'></span>
                     </label>
                     <div className="btn6">
-                    Checkout
+                        Checkout
                     </div>
 
                 </div>

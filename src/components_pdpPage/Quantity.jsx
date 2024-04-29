@@ -25,7 +25,7 @@ function Quantity() {
             <div className="wrapp3">
                 <div className="left2">
                     <div className="sectn1">
-                        <h3 className='newh3'>NON-ALCOHOLIK DRINK</h3>
+                        <h3 className='newh3'>NOn-ALCOHOLIK DRINK</h3>
                         <h2>Medium - bodied</h2>
                         <h4>Light and easy to sip</h4>
                         <img className='star' src={star} alt="" />
@@ -39,13 +39,13 @@ function Quantity() {
                         <img className='logos logo1' src={face} alt="" />
                         <img className='logos logo2' src={pint} alt="" />
                         <img className='logos logo3' src={X} alt="" />
-                        <NavLink to="/SecondPage"><a href="">Shop the can</a></NavLink>
+                        <NavLink to="/SecondPage"><a href="#!">Shop the can</a></NavLink>
 
                     </div>
                 </div>
                 <div className="center">
                     <>
-                        <Swiper loop={true}  pagination={true} navigation={true} modules={[Pagination , Navigation]} className="mySwiper2">
+                        <Swiper loop={true} pagination={true} navigation={true} modules={[Pagination, Navigation]} className="mySwiper2">
                             <SwiperSlide className='swiperrr'><img className='btl2' src={bottle2} alt="" /></SwiperSlide>
                             <SwiperSlide className='swiperrr'><img className='btl2' src={bottle2} alt="" /></SwiperSlide>
                             <SwiperSlide className='swiperrr'><img className='btl2' src={bottle2} alt="" /></SwiperSlide>

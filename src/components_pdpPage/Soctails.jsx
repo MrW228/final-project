@@ -11,19 +11,19 @@ function Soctails() {
             <img className='bottle' src={bottle1} alt="" />
             <h1>Full - bodied</h1>
             <h3>$35.59</h3>
-            <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+            <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
         </div>
         <div className="card124">
             <img className='bottle' src={bottle1} alt="" />
             <h1>Light - bodied</h1>
             <h3>$35.59</h3>
-            <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+            <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
         </div>
         <div className="card124">
             <img className='bottle' src={bottle1} alt="" />
             <h1>Eral grey tote</h1>
             <h3>$35.59</h3>
-            <NavLink to="/ShopPage"><a href="">SHOP NOW</a></NavLink>
+            <NavLink to="/ShopPage"><a href="#!">SHOP NOW</a></NavLink>
         </div>
 
       </div>
