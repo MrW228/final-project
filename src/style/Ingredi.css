@@ -1,0 +1,82 @@
+.ingredi {
+    width: 1440px;
+    height: 564px;
+    top: 3481px;
+    background: #FFFBF6;
+}
+
+.ingredi h1 {
+    width: 404px;
+    height: 64px;
+    margin-left: 517px;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 46px;
+
+
+}
+
+.ingredi p {
+    width: 719px;
+    height: 72px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23.8px;
+    text-align: center;
+    margin-left: 361px;
+    margin-bottom: 16px;
+
+}
+
+.ingredi a {
+    width: 201px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-left: 620px;
+    margin-top: 16px;
+    color:  #BB6B1E;
+    text-decoration: underline;
+
+}
+.ingredi a:hover{
+    color: black;
+}
+
+.wrap { 
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.card2 {
+    width: 227px;
+    height: 144px;
+
+    padding: 16px 73px 17px 74px;
+
+}
+
+.card2 h3 { 
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+}
+.card2 img:hover{
+    margin-top: -10px;
+}
+a:hover{
+    color: chocolate;
+}

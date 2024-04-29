@@ -1,0 +1,473 @@
+.wrapp3 {
+    position: relative;
+    width: 1360px;
+    height: 808px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.297);
+
+
+}
+
+.left2 {
+    z-index: 12;
+
+    display: inline-block;
+    width: 35%;
+    height: 100%;
+}
+
+.right2 {
+
+    display: inline-block;
+    width: 35%;
+    height: 90%;
+    z-index: 10;
+
+}
+
+.center {
+
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+
+}
+
+.sectn1 {
+    position: relative;
+    width: 396px;
+    height: 423px;
+}
+
+.newh3 {
+
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+}
+
+.sectn1 h2 {
+    top: 23px;
+    position: absolute;
+    font-family: Philosopher;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 71.04px;
+    text-align: left;
+
+}
+
+.sectn1 h4 {
+    position: absolute;
+    top: 102px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22.06px;
+    text-align: left;
+
+}
+
+.star {
+    position: absolute;
+    top: 136px;
+
+}
+
+.sectn1 p {
+    border-top: 1px solid #00000039;
+
+    border-bottom: 1px solid #00000039;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: absolute;
+    top: 188px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22.06px;
+    text-align: left;
+
+}
+
+.sectn1 h5 {
+    top: 352px;
+    position: absolute;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: center;
+
+}
+
+.logos {
+    position: absolute;
+    top: 358px;
+    left: 100px;
+}
+
+.logo1 {
+    left: 78px;
+}
+
+.logo2 {
+    left: 108px;
+}
+
+.logo3 {
+    left: 140px;
+}
+
+.sectn1 a {
+    color: #000;
+    top: 200px;
+    width: 200px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    position: absolute;
+    text-transform: uppercase;
+
+}
+.right2{
+    height: 300px;
+}
+.center img {
+    width: 520px;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    right: 50px;
+
+}
+
+.sectn2 {
+    height: 200px !important;
+    padding: 0 !important;
+    position: relative;
+    width: 396px;
+    height: 603px;
+    margin: 0 auto;
+}
+
+.sectn2 h1 {
+    margin: 0;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #00000039;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 39.01px;
+    text-align: left;
+
+}
+
+.sectn2 h5 {
+    position: absolute;
+    top: 71px;
+    left: 0;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+}
+
+.sectn2 ul li {
+    list-style: none;
+    text-decoration: none;
+    position: absolute;
+    top: 105px;
+}
+
+.sectn2 ul li img {
+    width: 16px;
+    height: 16px;
+}
+
+.li1 {
+    left: 0;
+}
+
+.li2 {
+    left: 111px;
+}
+
+.li3 {
+    left: 185px;
+}
+
+.sectn2 ul {
+
+    width: 100%;
+    border-bottom: 1px solid #00000000;
+}
+
+.sectn2 .vibori {
+    position: relative;
+    width: 343px;
+    height: 114px;
+    margin-top: 161px;
+}
+
+.sectn2 h3 {
+    position: absolute;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+}
+
+.sectn2 h4 {
+    position: absolute;
+    top: 20px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: left;
+
+}
+
+.lies {
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: center;
+    top: 0;
+    left: 0;
+}
+
+.lie1 {
+    width: 50px;
+    height: 50px;
+    left: 34px;
+}
+
+.lie1 {
+    border-bottom: 3px solid rgb(117, 55, 0);
+}
+
+.lie2 {
+    left: 82px;
+}
+
+.lie3 {
+    left: 137px;
+}
+
+.lie4 {
+    left: 195px;
+}
+
+.lie5 {
+    left: 250px;
+}
+
+.ul2 {
+    position: relative;
+    margin: 0;
+    border: none;
+    top: -50px;
+    left: 0;
+}
+
+.radios {
+    width: 100%;
+    border-top: 1px solid #00000039;
+    border-bottom: 1px solid #00000039;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 270px;
+    left: 0;
+    display: grid;
+
+}
+
+.radios input {
+    border: none;
+    margin-bottom: 6px;
+    width: 24px;
+    height: 24px;
+}
+
+.radios h3 {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+    position: absolute;
+    top: 45px;
+    left: 40px;
+}
+
+.radios h2 {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+    position: absolute;
+    top: 74px;
+    left: 40px;
+}
+
+.btndiv {
+    top: 395px;
+    position: absolute;
+
+    width: 396px;
+    height: 80px;
+
+
+}
+
+.btndiv h3 {
+    text-transform: capitalize;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: left;
+
+}
+
+.btn3 {
+    margin-top: 45px;
+    width: 396px;
+    height: 48px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+
+}
+
+.btn3:hover {
+    background-color: transparent;
+    color: black;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+
+.center {
+
+    background-color: white !important;
+    position: relative;
+    width: 570px;
+    height: 611px;
+
+}
+
+.mySwiper2 {
+    height: 100%;
+
+    z-index: 11;
+    position: relative;
+    top: -80px;
+    left: -120px;
+    width: 511px;
+    height: 711px;
+
+}
+.right2{
+    position: relative;
+    top: -800px;;
+    left: 885px;
+}
+
+.btl2{
+    height: 100%;
+
+    margin-left: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.swiper-button-next::after{
+    display: none;
+
+
+}
+.swiper-button-prev::after{
+    display: none;
+
+}
+.swiper-button-prev::before{
+
+    z-index: 15;
+    position: absolute;
+    top: 357px;
+    left: 100px;
+    transform: rotate(180deg);
+    content: url(../image/Arrow.png);
+
+}
+.swiper-button-next::before{
+    width: 100px;
+    z-index: 15;
+    position: absolute;
+    top: 355px;
+    left: -100px;
+    content: url(../image/Arrow.png);
+
+}
+.swiperrr{
+    height: 100%;
+    background-color: white;
+}
+.div123{
+    z-index: 10;
+    width: 720px;
+    height: 724px;
+    position: absolute;
+
+}
+.swiper-pagination{
+    position: absolute !important;
+    left: 232px !important;
+    display: flex !important;
+    width: 100px !important;
+}

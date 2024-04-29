@@ -1,0 +1,105 @@
+/*   font-family: "Montserrat", sans-serif; */
+
+.hero {
+    height: 62px;
+    width: 1440px;
+    margin: 0px 0px 0px 0px;
+}
+
+.header {
+    width: 1440px;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+
+.hero a,
+h1 {
+    display: inline-block;
+    margin-left: 24px;
+
+}
+
+.hero a {
+    color: black;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.85px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+}
+
+#logo {
+    width: 141px;
+    height: 28px;
+    top: 55px;
+    left: 645px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 16px;
+    margin-left: 316px;
+    margin-right: 312px;
+}
+
+
+
+
+.bag {
+    position: relative;
+    top: 13px;
+    left: 10px;
+}
+
+
+.span {
+    font-family: "Montserrat";
+    color: white;
+    position: relative;
+    top: 5px;
+    left: -17px;
+
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.str1 {
+    position: relative;
+    left: 6px;
+    bottom: 2px;
+}
+.str1:hover {
+    bottom: -2px;
+}
+.str2:hover {
+    bottom: -2px;
+}
+.str3:hover {
+    bottom: -2px;
+}
+
+
+.str2 {
+    position: relative;
+    left: 6px;
+    bottom: 2px;
+}
+
+.str3 {
+    position: relative;
+    left: 6px;
+    bottom: 2px;
+}
+
+.usa {
+    position: relative;
+    left: 20px;
+    top: 4px;
+}
+a:hover{
+    color: chocolate;
+}

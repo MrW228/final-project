@@ -1,0 +1,25 @@
+.bagpage h1 {
+    font-family: Philosopher;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 80.64px;
+    text-align: center;
+    width: 237px;
+    height: 81px;   
+    margin-left: 602px;
+    margin-bottom: 72px;
+
+
+}
+.bagpage{
+    margin: 0 auto;
+}
+a:hover{
+    color: chocolate;
+}
+
+
+
+
+
+

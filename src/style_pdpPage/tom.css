@@ -1,0 +1,117 @@
+.tom {
+    margin: 0;
+    width: 1440px;
+    height: 792px;
+    display: flex;
+
+
+}
+
+.wrappp {
+    width: 1440px;
+    height: 600px;
+
+    display: flex;
+    margin-top: 112px;
+
+}
+
+.wrappp img {
+    margin-left: 40px;
+}
+
+.wrappp img:nth-of-type(2) {
+    width: 305px;
+    height: 406px;
+    margin-top: 100px;
+    margin-left: -140px;
+    z-index: 3;
+}
+
+.wrappp h1 {
+    display: inline;
+    width: 347px;
+    height: 81px;
+
+
+    margin-left: -60px;
+    margin-top: 100px;
+    font-family: Philosopher;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 81.4px;
+    text-align: left;
+
+}
+
+.wrappp h3 {
+    margin-top: 250px;
+    margin-left: -320px;
+    width: 99px;
+    height: 15px;
+
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.wrappp p {
+    margin-top: 290px;
+    margin-left: -227px;
+    width: 378px;
+    height: 96px;
+
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.wrappp a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    width: 171px;
+    margin-top: 400px;
+    margin-left: -267px;
+    color: black;
+    height: 17px;
+
+
+}
+
+a:hover {
+    color: chocolate;
+}
+
+.rec {
+    position: relative;
+    right: -395px;
+}
+
+.wrappp button {
+    color: white;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.94px;
+    text-align: center;
+
+    position: relative;
+    top: 250px;
+    right: -110px;
+    width: 97px;
+    height: 97px;
+    border-radius: 50%;
+    background-color: #BB6B1E;
+    border: none;
+
+}
+.wrappp button:hover{
+    background-color: white;
+    color: #BB6B1E;
+}

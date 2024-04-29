@@ -1,0 +1,22 @@
+.join {
+
+    height: 166px;
+    width: 1440px;
+}
+
+.join h1{
+    width: 1002px;
+    height: 64px;
+    margin-top: 53px;
+
+    margin-left: 200px;
+    font-family: Philosopher;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: center;
+
+}
+a:hover{
+    color: chocolate;
+}

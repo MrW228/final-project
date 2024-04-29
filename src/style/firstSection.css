@@ -1,0 +1,112 @@
+/*   font-family: "Montserrat", sans-serif; */
+.oneSct {
+    display: inline-block;
+    width: 720px;
+    height: 922px;
+}
+
+.FirstSection {
+    height: 900px;
+}
+
+.twoSct .bgdiv {
+    width: 405px;
+    height: 540px;
+    background: url(../image/Vector.svg);
+    position: relative;
+    top: 191px;
+    left: 157px;
+}
+
+
+
+.twoSct {
+    font-family: Philosopher;
+    position: relative;
+    top: -245px;
+    background-color: #FFFBF6;
+    width: 720px;
+    height: 922px;
+    display: inline-block;
+
+
+}
+
+.narr {
+    position: relative;
+    top: -200px;
+    left: 299px;
+    width: 140px;
+    height: 17px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+
+}
+
+.Lorem {
+  font-family: "Philosopher", sans-serif;
+
+    left: 94px;
+    top: -180px;
+    position: relative;
+    width: 483px;
+    height: 128px;
+
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: center;
+
+
+}
+
+.twoSct a {
+    position: relative;
+    top: -100px;
+    right: 190px;
+    text-decoration: underline;
+    width: 100px;
+    color: black;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:1439px) {
+    .oneSct{
+        width: 710px;
+    }
+    .twoSct{
+        width: 710px;
+    }
+}
+@media (max-width:1420px) {
+    .oneSct{
+        width: 600px;
+    }
+    .twoSct{
+        width: 600px;
+    }
+}
+
+a:hover{
+    color: chocolate;
+}

@@ -1,0 +1,96 @@
+.acc2 {
+    position: relative;
+    background-color: black;
+    width: 1440px;
+    height: 464px;
+
+}
+
+.acc2 h1 {
+    margin-top: 80px;
+    margin-left: 80px;
+    color: white;
+    width: 335px;
+    height: 234px;
+    font-family: Philosopher;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 78.4px;
+    text-align: left;
+
+
+}
+
+.acc2 #panel1d-header2 {
+    font-family: Montserrat !important;
+
+    background-color: black;
+
+    width: 720px;
+    height: 48px;
+}
+
+.acc2 #panel2d-header2 {
+    font-family: Montserrat !important;
+
+    background-color: black;
+    border: none;
+    width: 720px;
+    height: 48px;
+}
+
+.acc2 #panel3d-header2 {
+    font-family: Montserrat !important;
+    background-color: black;
+    border: none;
+    width: 720px;
+    height: 48px;
+}
+
+.acc2 .MuiPaper-root {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+    font-family: Montserrat !important;
+    border-top: 1px solid rgb(255, 255, 255);
+}
+
+.acc2 .MuiAccordionDetails-root {
+    font-family: Montserrat !important;
+    width: 720px;
+    background-color: black;
+    border: none !important;
+}
+
+.acc2 .MuiTypography-root {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+    font-family: Montserrat !important;
+    color: white;
+}
+
+.accc {
+    font-family: Montserrat !important;
+    position: absolute;
+    top: 80px;
+    right: 120px;
+}
+
+.acc2 .MuiTypography-root {
+    font-family: Montserrat !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    line-height: 14.63px !important;
+    letter-spacing: 0.1em !important;
+    text-align: left;
+
+} 

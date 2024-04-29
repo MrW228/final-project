@@ -1,0 +1,43 @@
+/*   font-family: "Montserrat", sans-serif; */
+
+.hero {
+    height: 62px;
+    width: 1440px;
+}
+
+.hero a,
+h1 {
+    display: inline-block;
+    margin-left: 24px;
+
+}
+
+.hero a {
+    color: black;
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 15.85px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+}
+
+#logo{
+    width: 141px;
+    height: 28px;
+    top: 55px;
+    left: 645px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 16px;
+    margin-left: 316px;
+    margin-right: 312px;
+    border: 1px solid rgba(0, 0, 0, 0.551);
+}
+
+.hero:nth-of-type(1) {
+    margin-left: 40px;
+}

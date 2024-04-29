@@ -1,0 +1,157 @@
+
+.Variety {
+    font-family: "Montserrat";
+
+    border: 1px solid black;
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.veriety__card {
+    font-family: "Montserrat";
+
+    border-top: 1px solid #00000076;
+    border-bottom: 1px solid #00000076;
+    ;
+    padding: 40px;
+    width: 480px;
+    height: 637px;
+}
+
+.veriety__card h2 {
+    font-family: "Montserrat";
+
+    font-family: "Philosopher", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 166px 40px 0 40px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 128%;
+    text-align: center;
+    color: #000;
+}
+
+.veriety__card h5 {
+    font-family: "Montserrat";
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    text-align: center;
+    color: #000;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.veriety__card p {
+    font-family: "Montserrat";
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    margin: 15.5px 0;
+}
+
+.veriety__card b {
+    font-family: "Montserrat";
+
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.v_c_span {
+    font-family: "Montserrat";
+
+    border: 1px solid #000;
+    opacity: 0.5;
+}
+
+
+
+.bootle__card {
+    border: 1px solid #00000076;
+    width: 480px;
+    height: 637px;
+}
+
+.butlka {
+    margin: 24px 54px 8px 54px;
+}
+.b_c_text h4{
+    font-family: "Montserrat";
+
+}
+.b_c_text b {
+    font-family: "Montserrat";
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+}
+
+.b_c_text p {
+    font-family: "Montserrat";
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 9px;
+}
+
+.b_c_text h4 {
+    font-family: "Montserrat";
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    text-align: center;
+    color: #000;
+    margin-top: 8px;
+}
+
+.qorayulduscha {
+    margin: 0 158px;
+}
+.veriety__card p {
+    font-family: "Montserrat";
+  
+
+}
+
+
+.bootle__card1 {
+    border-top: 1px solid #00000076;
+    border-bottom: 1px solid #00000076;
+    ;
+    width: 480px;
+    height: 637px;
+}
+
+.bootle__card1 .butlka {
+    width: 378px;
+    height: 480px;
+    margin: 24px 54px 8px 54px;
+}
+
+.yulduscha {
+    margin: 0 195px 0 194px;
+}

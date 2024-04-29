@@ -1,0 +1,127 @@
+#panel32bh-header {
+    border-radius: none;
+    position: relative;
+    color: black;
+    width: 400px;
+    font-weight: 900;
+    font-family: Montserrat !important;
+    background-color: rgb(255, 255, 255);
+    border: none;
+
+}
+
+#panel22bh-header {
+    position: relative;
+    font-family: Montserrat !important;
+
+    background-color: rgb(255, 255, 255);
+    border: none;
+
+    width: 400px;
+}
+
+#panel12bh-header {
+        position: relative;
+
+    width: 400px;
+    font-family: Montserrat !important;
+
+    background-color: rgb(255, 255, 255);
+
+
+
+}
+.MuiTypography-root{
+    font-family: Montserrat !important;
+    width: 300px;
+    font-weight: 900;
+}
+.MuiTypography-body1 {
+    font-weight: 900;
+}
+.acc {
+    top: -300px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+    margin-left: 965px;
+    border: none;
+    position: relative;
+    width: 400px;
+}
+
+.plus2 {
+    position: absolute;
+    display: flex;
+    right: 200px;
+    top: 20px;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+.acc2 #panel1d-header2 {
+    font-family: Montserrat !important;
+
+    background-color: black;
+
+    width: 720px;
+    height: 48px;
+}
+
+
+
+
+
+.acc2 .MuiPaper-root {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: center;
+
+    font-family: Montserrat !important;
+    border-top: 1px solid rgb(255, 255, 255);
+}
+
+.acc2 .MuiAccordionDetails-root {
+    font-family: Montserrat !important;
+    width: 720px;
+    background-color: black;
+    border: none !important;
+}
+
+.acc2 .MuiTypography-root {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+
+    font-family: Montserrat !important;
+    color: white;
+}
+
+.accc {
+    font-family: Montserrat !important;
+    position: absolute;
+    top: 80px;
+    right: 120px;
+}
+
+.acc2 .MuiTypography-root {
+    font-family: Montserrat !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    line-height: 14.63px !important;
+    letter-spacing: 0.1em !important;
+    text-align: left;
+
+}

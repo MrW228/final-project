@@ -1,0 +1,10 @@
+.cocktails{
+    width: 1440px;
+}
+.cocktails img{
+    width: 25%;
+}
+a:hover{
+    color: chocolate;
+}
+

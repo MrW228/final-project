@@ -1,0 +1,26 @@
+.header__wrapper {
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    background-color: black;
+}
+.Shopheader{
+    width: 1440px;
+    margin: 0 auto;
+}
+.header__wrapper p {
+    font-family: "Montserrat";
+    margin: 8px auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    text-align: center;
+    color: #fff;
+}
+
+.header__wrapper a {
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}

@@ -1,0 +1,71 @@
+.utenim {
+
+    width: 1440px;
+    height: 580px;
+
+
+}
+
+.utenim img {
+    z-index: 1;
+    position: absolute;
+
+}
+
+.des {
+    top: 118px;
+    font-family: "Montserrat", sans-serif;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    color: #fff;
+    position: relative;
+
+    z-index: 3;
+}
+
+.utenim h1 {
+    top: 170px;
+    left: 360px;
+    position: relative;
+    color: #fff;
+    z-index: 3;
+    width: 720px;
+    height: 240px;
+    font-family: Philosopher;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 80px;
+    text-align: center;
+
+
+}
+
+.utenim a {
+    top: 220px;
+    right: 65px;
+
+    color: #fff;
+    position: relative;
+    width: 90px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    z-index: 3;
+
+}
+
+.utenim a:hover {
+    color: #BB6B1E;
+
+}
+a:hover{
+    color: chocolate;
+}

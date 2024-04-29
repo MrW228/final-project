@@ -1,0 +1,95 @@
+.ing2 {
+
+    
+    margin: 0 auto 0 auto;
+    width: 1360px;
+    height: 596px;
+
+
+}
+
+.ing2 h1 {
+    margin-left: 419px;
+    font-family: Philosopher;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 71.04px;
+    text-align: center;
+
+}
+
+.ing2 p {
+    margin-top: 24px;
+    margin-left: 320px;
+    width: 720px;
+    height: 73px;
+
+
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: center;
+
+}
+
+.wrapp9 {
+    position: relative;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.card3 img {
+    top: -450px;
+    position: absolute;
+    left: 130px;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.card3 h1 {
+    position: absolute;
+    bottom: 220px;
+    left: 120px;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+    height: 36px;
+    font-family: Philosopher;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 35.84px;
+    text-align: center;
+
+}
+
+.card3 p {
+    position: absolute;
+    bottom: 150px;
+    width: 400px;
+    height: 72px;
+
+
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: center;
+
+    margin: 0;
+    text-align: center;
+
+    padding: 0;
+}
+
+.card3 {
+    position: relative;
+    top: 500px;
+    text-align: center;
+}
+
+a:hover{
+    color: chocolate;
+}

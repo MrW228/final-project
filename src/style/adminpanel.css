@@ -1,0 +1,13 @@
+.adminPanel{
+    width: 600px;
+    height: 279px;
+    margin: 50px auto 0 auto;
+}
+.adminPanel h1{
+    width: 590px;
+    font-family: Montserrat;
+    font-weight: 800;
+}
+a:hover{
+    color: chocolate;
+}

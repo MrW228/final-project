@@ -1,0 +1,160 @@
+.product {
+    width: 960px;
+    height: 432px;
+    margin: 0 auto;
+}
+
+.vibor p {
+    width: 71px;
+    height: 15px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14.63px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.vibor p:nth-of-type(2) {
+
+    margin-left: 370px
+}
+
+.vibor p:nth-of-type(3) {
+
+    margin-left: 196px
+}
+
+.vibor p:nth-of-type(4) {
+
+    margin-left: 90px;
+}
+
+.onebottle {
+    border-top: 1px solid #CBCBCB;
+    position: relative;
+    width: 960px;
+    height: 200px;
+
+}
+
+.twobottle {
+    width: 960px;
+    height: 200px;
+}
+
+.onebottle img {
+    width: 120px;
+    height: auto;
+    margin-top: 27px;
+
+
+}
+
+.twobottle img {
+    width: 120px;
+    height: auto;
+    margin-top: 27px;
+
+
+}
+
+.onebottle h3 {
+    display: inline-block;
+
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: left;
+
+}
+
+.onebottle h3 span {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 23.8px;
+    text-align: left;
+
+
+
+}
+
+.onebottle h2 {
+    left: 450px;
+    position: absolute;
+    top: 88px;
+    height: 30px;
+    width: 100px;
+    display: inline-block;
+    margin-bottom: 90px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+
+}
+
+.onebottle h2 del {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.8px;
+    text-align: right;
+    color: #000000;
+    opacity: 0.5;
+
+}
+
+.btn12 {
+    cursor: cell;
+    border: none;
+    border-radius: none;
+    background-color: white;
+    width: 33px;
+    height: 33px;
+}
+
+.btn3 {
+    cursor: vertical-text;
+}
+
+.span5 {
+    font-family: Montserrat;
+    font-weight: 700;
+    margin-bottom: -15px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 1px;
+    height: 33px;
+}
+
+
+.wrapp7 {
+    right: 176px;
+    bottom: 80px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn99 {
+    cursor: cell;
+    border: none;
+    border-radius: none;
+    background-color: white;
+    width: 33px;
+    height: 33px;
+}
+a:hover{
+    color: chocolate;
+}

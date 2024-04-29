@@ -1,0 +1,87 @@
+.learn {
+    width: 1440px;
+    height: 760px;
+}
+
+.div1 img {
+    margin-top: 35px;
+}
+
+.div2 {
+
+    width: 50%;
+    height: auto;
+}
+
+.div1 {
+
+    width: 50%;
+    height: auto;
+}
+
+.learn {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.div1 img {
+    margin-top: 40px;
+    margin-left: 200px;
+}
+
+.div2 h3 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    width: 56px;
+    height: 17px;
+    margin-top: 257px;
+
+
+}
+
+.div2 h1 {
+    margin-left: -5px;
+    margin-top: 8px;
+    font-family: Philosopher;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: center;
+    
+}
+
+.div2 p {
+    width: 560px;
+    height: 96px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23.8px;
+    text-align: left;
+    margin-bottom: 22px;
+
+}
+
+.div2 a {
+    width: 96px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    margin-top: 22px;
+    color: #000000;
+    text-decoration: underline;
+}
+.div2 a:hover{
+    color: #7f3d00;
+}
+a:hover{
+    color: chocolate;
+}

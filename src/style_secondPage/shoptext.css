@@ -1,0 +1,15 @@
+.Name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Name h1 {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 91%;
+    text-align: center;
+    color: #000;
+    margin: 40px 0 62px 0;
+}

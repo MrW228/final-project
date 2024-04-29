@@ -1,0 +1,21 @@
+.errpage img {
+    width: 1440px;
+    height: auto;
+}
+
+.errpage a {
+    position: absolute;
+    font-size: 30px;
+    top: 655px;
+    font-weight: 900;
+    color: #BB6B1E;
+    left: 743px;
+    z-index: 4;
+    padding: 38px 99px 32px 99px;
+    background-color: #fff;
+    border-radius: 50px;
+    border: 5px solid #BB6B1E;
+}
+a:hover{
+    color: chocolate;
+}

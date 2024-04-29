@@ -1,0 +1,103 @@
+.palkovnik {
+    width: 1440px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bodied__card {
+    padding: 40px;
+    width: 480px;
+    height: 637px;
+    background: #fffbf6;
+}
+
+.bodied__card {
+    padding: 40px;
+    width: 480px;
+    height: 637px;
+    background: #fffbf6;
+}
+
+.bodied__card h2 {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 128%;
+    text-align: center;
+    color: #000;
+    margin: 117px 40px 8px 40px;
+}
+
+.bodied__card h5 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 170%;
+    text-align: center;
+    color: #000;
+}
+
+.b_c_span {
+    border: 1px solid #000;
+    opacity: 0.5;
+    margin: 16px 0 16px 0;
+}
+
+.bodied__card b {
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.bodied__card p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    margin-bottom: 16px;
+}
+
+.b_imgs_card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 399px;
+    height: 80px;
+}
+
+.b_imgs_card1 img {
+    margin: 8px 46px 0 47px;
+    width: 50px;
+    height: auto;
+}
+
+.b_imgs_card h5 {
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+    margin: 8px 26px 9px 26px;
+}
+
+
+
+
+.palkovnik__card {
+    background: url(../image/photo_2024-04-18_17-19-01.jpg);
+    width: 480px;
+    height: 638px;
+    background-position: center;
+    background-size: cover;
+}
+
+.palkovnik__card h1 {
+    font-family: "Philosopher", sans-serif;
+    margin: 38px 40px 0 40px;
+    font-weight: 700;
+    font-size: 80px;
+    color: #fff;
+}

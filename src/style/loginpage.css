@@ -1,0 +1,73 @@
+* {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+}
+
+.loginpage {
+    margin-left: -70px;
+    width: auto;
+    height: 400px;
+
+}
+
+.loginpage h1 {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: unset;
+}
+
+.loginpage {
+    text-align: center;
+}
+
+.loginpage input {
+    
+    width: 304px;
+    height: 48px;
+    margin: 20px;
+    font-family: Montserrat;
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: none ;
+
+
+}
+.loginpage button{
+    width: 304px;
+    height: 48px;
+    margin: 20px;
+    font-family: Montserrat;
+    padding-left: 10px;
+    font-size: 15px;
+
+    font-weight: 800;
+    border: 1px solid black;
+    background-color: transparent;
+}
+.loginpage button:hover {
+    color: white;
+    background-color: #BB6B1E;  
+    border: none;
+}
+.loginpage button:active {
+    color: black;
+    background-color: #ffffff00;  
+    border: none;
+}
+.loginpage input:focus{
+    border-radius: none ;
+    background-color: #BB6B1E;
+    border: none;
+}
+.loginpage input::placeholder:focus{
+    color: white;
+}
+a:hover{
+    color: chocolate;
+}
